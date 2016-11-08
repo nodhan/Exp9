@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Add Student"
+        android:id="@+id/adds" />
+    <item android:title="Sort List"
+        android:id="@+id/sort" />
+    <item android:title="Exit"
+        android:id="@+id/exit" />
+</menu>
